@@ -10,7 +10,7 @@ Welcome to my GitHub!
   1- First project made 100% by me. 
     A Landingpage made with Node.js, React.js with typescript and using PHPMailer to send the form. 
     Firstborn son, father's pride. 
-    You can check it at www.2aseguranca.com.br.
+    You can check it at https://www.2asegurancaemive.com.br/.
     And if you are interested in hiring the service, my friend Thiago Lopes will be happy to assist you. 
 ---------------
 - 🌱 I'm back to [@Loiane Grooner](https://github.com/loiane)'s angular course. You can check it out in my [Repository](https://github.com/Karosso/Angular-6).
