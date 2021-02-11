@@ -24,6 +24,7 @@ Welcome to my GitHub!
 ---------------
 - 🌱 Taking advantage of the new knowledge in NextJs, I will migrate the Emive website to this language in order to optimize SEO.
 - 🚀 [@The Simpsons Quiz](https://github.com/Karosso/quiz-next) Project created in the Alura immersion, a Simpsons Quiz, made with NextJs, was beautiful!
+  1. [Quiz website](https://quiz-next.karosso.vercel.app/).It is online on the vercel server and available in English and Portuguese languages. You have to check it out
 - 🏆 [@Rocketseat](https://github.com/Rocketseat) NLW-2 completed (React.js), knowledge assimilated and applied. Repositories:
   1. [FrontEnd Web](https://github.com/Karosso/NLW-2).
   2. [FrontEnd Mobile](https://github.com/Karosso/NLW-2-Mobile).
