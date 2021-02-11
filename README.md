@@ -18,10 +18,12 @@ Welcome to my GitHub!
     For this i developed the database in SQLServer containing the bible and an inverted list to use the elastic search algorithm.
     For control and access to the database, I built a [Web API](https://github.com/Karosso-s/BibleSearchWebApi) in C# to do the search and return a Json to the Frontend.
     I am building the web [FrontEnd](https://github.com/Karosso-s/BibleSearchFrontEndWeb) in Angular, which will be responsible for returning the search result and breaking up a     verse    with an image to be shared on social networks. <br/>
-    Future plans will be to optimize the database to increase the performance of the elastic search and implementation of the mobile front end.
+    Future plans will be to optimize the database to increase the performance of the elastic search.
+    Fot the Front-End as i'm working with React, my plans are to create a mobile application in React-Native and pass the web application to NextJs.
     
 ---------------
-- 🌱 I'm back to [@Loiane Grooner](https://github.com/loiane)'s angular course. You can check it out in my [Repository](https://github.com/Karosso/Angular-6).
+- 🌱 Taking advantage of the new knowledge in NextJs, I will migrate the Emive website to this language in order to optimize SEO.
+- 🚀 [@The Simpsons Quiz](https://github.com/Karosso/quiz-next) Project created in the Alura immersion, a Simpsons Quiz, made with NextJs, was beautiful!
 - 🏆 [@Rocketseat](https://github.com/Rocketseat) NLW-2 completed (React.js), knowledge assimilated and applied. Repositories:
   1. [FrontEnd Web](https://github.com/Karosso/NLW-2).
   2. [FrontEnd Mobile](https://github.com/Karosso/NLW-2-Mobile).
